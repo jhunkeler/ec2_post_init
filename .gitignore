@@ -2,3 +2,4 @@ tests/shunit
 docs/html
 docs/latex
 docs/man
+docs/_build
